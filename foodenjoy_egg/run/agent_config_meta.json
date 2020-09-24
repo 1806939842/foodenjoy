@@ -1,0 +1,283 @@
+{
+  "keys": "E:\\华清web\\react\\foodenjoy_egg\\config\\config.default.js",
+  "security": {
+    "csrf": {
+      "enable": "E:\\华清web\\react\\foodenjoy_egg\\config\\config.default.js",
+      "ignoreJSON": "E:\\华清web\\react\\foodenjoy_egg\\config\\config.default.js",
+      "type": "E:\\华清web\\react\\foodenjoy_egg\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js",
+      "useSession": "E:\\华清web\\react\\foodenjoy_egg\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js",
+      "cookieName": "E:\\华清web\\react\\foodenjoy_egg\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js",
+      "sessionName": "E:\\华清web\\react\\foodenjoy_egg\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js",
+      "headerName": "E:\\华清web\\react\\foodenjoy_egg\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js",
+      "bodyName": "E:\\华清web\\react\\foodenjoy_egg\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js",
+      "queryName": "E:\\华清web\\react\\foodenjoy_egg\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js",
+      "refererWhiteList": "E:\\华清web\\react\\foodenjoy_egg\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js"
+    },
+    "WhiteList": "E:\\华清web\\react\\foodenjoy_egg\\config\\config.default.js",
+    "domainWhiteList": "E:\\华清web\\react\\foodenjoy_egg\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js",
+    "protocolWhiteList": "E:\\华清web\\react\\foodenjoy_egg\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js",
+    "defaultMiddleware": "E:\\华清web\\react\\foodenjoy_egg\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js",
+    "xframe": {
+      "enable": "E:\\华清web\\react\\foodenjoy_egg\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js",
+      "value": "E:\\华清web\\react\\foodenjoy_egg\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js"
+    },
+    "hsts": {
+      "enable": "E:\\华清web\\react\\foodenjoy_egg\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.local.js",
+      "maxAge": "E:\\华清web\\react\\foodenjoy_egg\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js",
+      "includeSubdomains": "E:\\华清web\\react\\foodenjoy_egg\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js"
+    },
+    "dta": {
+      "enable": "E:\\华清web\\react\\foodenjoy_egg\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js"
+    },
+    "methodnoallow": {
+      "enable": "E:\\华清web\\react\\foodenjoy_egg\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js"
+    },
+    "noopen": {
+      "enable": "E:\\华清web\\react\\foodenjoy_egg\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js"
+    },
+    "nosniff": {
+      "enable": "E:\\华清web\\react\\foodenjoy_egg\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js"
+    },
+    "referrerPolicy": {
+      "enable": "E:\\华清web\\react\\foodenjoy_egg\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js",
+      "value": "E:\\华清web\\react\\foodenjoy_egg\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js"
+    },
+    "xssProtection": {
+      "enable": "E:\\华清web\\react\\foodenjoy_egg\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js",
+      "value": "E:\\华清web\\react\\foodenjoy_egg\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js"
+    },
+    "csp": {
+      "enable": "E:\\华清web\\react\\foodenjoy_egg\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js",
+      "policy": "E:\\华清web\\react\\foodenjoy_egg\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js"
+    },
+    "ssrf": {
+      "ipBlackList": "E:\\华清web\\react\\foodenjoy_egg\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js",
+      "checkAddress": "E:\\华清web\\react\\foodenjoy_egg\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js"
+    }
+  },
+  "cors": {
+    "origin": "E:\\华清web\\react\\foodenjoy_egg\\config\\config.default.js",
+    "allowMethods": "E:\\华清web\\react\\foodenjoy_egg\\config\\config.default.js"
+  },
+  "mysql": {
+    "client": {
+      "host": "E:\\华清web\\react\\foodenjoy_egg\\config\\config.default.js",
+      "port": "E:\\华清web\\react\\foodenjoy_egg\\config\\config.default.js",
+      "user": "E:\\华清web\\react\\foodenjoy_egg\\config\\config.default.js",
+      "password": "E:\\华清web\\react\\foodenjoy_egg\\config\\config.default.js",
+      "database": "E:\\华清web\\react\\foodenjoy_egg\\config\\config.default.js"
+    },
+    "default": {
+      "database": "E:\\华清web\\react\\foodenjoy_egg\\node_modules\\_egg-mysql@3.0.0@egg-mysql\\config\\config.default.js",
+      "connectionLimit": "E:\\华清web\\react\\foodenjoy_egg\\node_modules\\_egg-mysql@3.0.0@egg-mysql\\config\\config.default.js"
+    },
+    "app": "E:\\华清web\\react\\foodenjoy_egg\\node_modules\\_egg-mysql@3.0.0@egg-mysql\\config\\config.default.js",
+    "agent": "E:\\华清web\\react\\foodenjoy_egg\\node_modules\\_egg-mysql@3.0.0@egg-mysql\\config\\config.default.js"
+  },
+  "multipart": {
+    "mode": "E:\\华清web\\react\\foodenjoy_egg\\config\\config.default.js",
+    "fields": "E:\\华清web\\react\\foodenjoy_egg\\config\\config.default.js",
+    "fileSize": "E:\\华清web\\react\\foodenjoy_egg\\config\\config.default.js",
+    "fileExtensions": "E:\\华清web\\react\\foodenjoy_egg\\config\\config.default.js",
+    "autoFields": "E:\\华清web\\react\\foodenjoy_egg\\node_modules\\_egg-multipart@2.10.3@egg-multipart\\config\\config.default.js",
+    "defaultCharset": "E:\\华清web\\react\\foodenjoy_egg\\node_modules\\_egg-multipart@2.10.3@egg-multipart\\config\\config.default.js",
+    "fieldNameSize": "E:\\华清web\\react\\foodenjoy_egg\\node_modules\\_egg-multipart@2.10.3@egg-multipart\\config\\config.default.js",
+    "fieldSize": "E:\\华清web\\react\\foodenjoy_egg\\node_modules\\_egg-multipart@2.10.3@egg-multipart\\config\\config.default.js",
+    "files": "E:\\华清web\\react\\foodenjoy_egg\\node_modules\\_egg-multipart@2.10.3@egg-multipart\\config\\config.default.js",
+    "whitelist": "E:\\华清web\\react\\foodenjoy_egg\\node_modules\\_egg-multipart@2.10.3@egg-multipart\\config\\config.default.js",
+    "tmpdir": "E:\\华清web\\react\\foodenjoy_egg\\node_modules\\_egg-multipart@2.10.3@egg-multipart\\config\\config.default.js",
+    "cleanSchedule": {
+      "cron": "E:\\华清web\\react\\foodenjoy_egg\\node_modules\\_egg-multipart@2.10.3@egg-multipart\\config\\config.default.js"
+    }
+  },
+  "cluster": {
+    "listen": {
+      "path": "E:\\华清web\\react\\foodenjoy_egg\\config\\config.default.js",
+      "port": "E:\\华清web\\react\\foodenjoy_egg\\config\\config.default.js",
+      "hostname": "E:\\华清web\\react\\foodenjoy_egg\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js"
+    }
+  },
+  "session": {
+    "maxAge": "E:\\华清web\\react\\foodenjoy_egg\\node_modules\\_egg-session@3.2.0@egg-session\\config\\config.default.js",
+    "key": "E:\\华清web\\react\\foodenjoy_egg\\node_modules\\_egg-session@3.2.0@egg-session\\config\\config.default.js",
+    "httpOnly": "E:\\华清web\\react\\foodenjoy_egg\\node_modules\\_egg-session@3.2.0@egg-session\\config\\config.default.js",
+    "encrypt": "E:\\华清web\\react\\foodenjoy_egg\\node_modules\\_egg-session@3.2.0@egg-session\\config\\config.default.js"
+  },
+  "helper": {
+    "shtml": "E:\\华清web\\react\\foodenjoy_egg\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js"
+  },
+  "jsonp": {
+    "limit": "E:\\华清web\\react\\foodenjoy_egg\\node_modules\\_egg-jsonp@2.0.0@egg-jsonp\\config\\config.default.js",
+    "callback": "E:\\华清web\\react\\foodenjoy_egg\\node_modules\\_egg-jsonp@2.0.0@egg-jsonp\\config\\config.default.js",
+    "csrf": "E:\\华清web\\react\\foodenjoy_egg\\node_modules\\_egg-jsonp@2.0.0@egg-jsonp\\config\\config.default.js"
+  },
+  "onerror": {
+    "errorPageUrl": "E:\\华清web\\react\\foodenjoy_egg\\node_modules\\_egg-onerror@2.1.0@egg-onerror\\config\\config.default.js",
+    "appErrorFilter": "E:\\华清web\\react\\foodenjoy_egg\\node_modules\\_egg-onerror@2.1.0@egg-onerror\\config\\config.default.js",
+    "templatePath": "E:\\华清web\\react\\foodenjoy_egg\\node_modules\\_egg-onerror@2.1.0@egg-onerror\\config\\config.default.js"
+  },
+  "i18n": {
+    "defaultLocale": "E:\\华清web\\react\\foodenjoy_egg\\node_modules\\_egg-i18n@2.1.1@egg-i18n\\config\\config.default.js",
+    "dirs": "E:\\华清web\\react\\foodenjoy_egg\\node_modules\\_egg-i18n@2.1.1@egg-i18n\\config\\config.default.js",
+    "queryField": "E:\\华清web\\react\\foodenjoy_egg\\node_modules\\_egg-i18n@2.1.1@egg-i18n\\config\\config.default.js",
+    "cookieField": "E:\\华清web\\react\\foodenjoy_egg\\node_modules\\_egg-i18n@2.1.1@egg-i18n\\config\\config.default.js",
+    "cookieDomain": "E:\\华清web\\react\\foodenjoy_egg\\node_modules\\_egg-i18n@2.1.1@egg-i18n\\config\\config.default.js",
+    "cookieMaxAge": "E:\\华清web\\react\\foodenjoy_egg\\node_modules\\_egg-i18n@2.1.1@egg-i18n\\config\\config.default.js"
+  },
+  "watcher": {
+    "type": "E:\\华清web\\react\\foodenjoy_egg\\node_modules\\_egg-watcher@3.1.1@egg-watcher\\config\\config.local.js",
+    "eventSources": {
+      "default": "E:\\华清web\\react\\foodenjoy_egg\\node_modules\\_egg-watcher@3.1.1@egg-watcher\\config\\config.default.js",
+      "development": "E:\\华清web\\react\\foodenjoy_egg\\node_modules\\_egg-watcher@3.1.1@egg-watcher\\config\\config.default.js"
+    }
+  },
+  "customLogger": {
+    "scheduleLogger": {
+      "consoleLevel": "E:\\华清web\\react\\foodenjoy_egg\\node_modules\\_egg-schedule@3.6.5@egg-schedule\\config\\config.default.js",
+      "file": "E:\\华清web\\react\\foodenjoy_egg\\node_modules\\_egg-schedule@3.6.5@egg-schedule\\config\\config.default.js"
+    }
+  },
+  "schedule": {
+    "directory": "E:\\华清web\\react\\foodenjoy_egg\\node_modules\\_egg-schedule@3.6.5@egg-schedule\\config\\config.default.js"
+  },
+  "development": {
+    "watchDirs": "E:\\华清web\\react\\foodenjoy_egg\\node_modules\\_egg-development@2.7.0@egg-development\\config\\config.default.js",
+    "ignoreDirs": "E:\\华清web\\react\\foodenjoy_egg\\node_modules\\_egg-development@2.7.0@egg-development\\config\\config.default.js",
+    "fastReady": "E:\\华清web\\react\\foodenjoy_egg\\node_modules\\_egg-development@2.7.0@egg-development\\config\\config.default.js",
+    "reloadOnDebug": "E:\\华清web\\react\\foodenjoy_egg\\node_modules\\_egg-development@2.7.0@egg-development\\config\\config.default.js",
+    "overrideDefault": "E:\\华清web\\react\\foodenjoy_egg\\node_modules\\_egg-development@2.7.0@egg-development\\config\\config.default.js",
+    "overrideIgnore": "E:\\华清web\\react\\foodenjoy_egg\\node_modules\\_egg-development@2.7.0@egg-development\\config\\config.default.js"
+  },
+  "logrotator": {
+    "filesRotateByHour": "E:\\华清web\\react\\foodenjoy_egg\\node_modules\\_egg-logrotator@3.1.0@egg-logrotator\\config\\config.default.js",
+    "hourDelimiter": "E:\\华清web\\react\\foodenjoy_egg\\node_modules\\_egg-logrotator@3.1.0@egg-logrotator\\config\\config.default.js",
+    "filesRotateBySize": "E:\\华清web\\react\\foodenjoy_egg\\node_modules\\_egg-logrotator@3.1.0@egg-logrotator\\config\\config.default.js",
+    "maxFileSize": "E:\\华清web\\react\\foodenjoy_egg\\node_modules\\_egg-logrotator@3.1.0@egg-logrotator\\config\\config.default.js",
+    "maxFiles": "E:\\华清web\\react\\foodenjoy_egg\\node_modules\\_egg-logrotator@3.1.0@egg-logrotator\\config\\config.default.js",
+    "rotateDuration": "E:\\华清web\\react\\foodenjoy_egg\\node_modules\\_egg-logrotator@3.1.0@egg-logrotator\\config\\config.default.js",
+    "maxDays": "E:\\华清web\\react\\foodenjoy_egg\\node_modules\\_egg-logrotator@3.1.0@egg-logrotator\\config\\config.default.js"
+  },
+  "static": {
+    "prefix": "E:\\华清web\\react\\foodenjoy_egg\\node_modules\\_egg-static@2.2.0@egg-static\\config\\config.default.js",
+    "dir": "E:\\华清web\\react\\foodenjoy_egg\\node_modules\\_egg-static@2.2.0@egg-static\\config\\config.default.js",
+    "dynamic": "E:\\华清web\\react\\foodenjoy_egg\\node_modules\\_egg-static@2.2.0@egg-static\\config\\config.default.js",
+    "preload": "E:\\华清web\\react\\foodenjoy_egg\\node_modules\\_egg-static@2.2.0@egg-static\\config\\config.default.js",
+    "buffer": "E:\\华清web\\react\\foodenjoy_egg\\node_modules\\_egg-static@2.2.0@egg-static\\config\\config.default.js",
+    "maxFiles": "E:\\华清web\\react\\foodenjoy_egg\\node_modules\\_egg-static@2.2.0@egg-static\\config\\config.default.js"
+  },
+  "view": {
+    "root": "E:\\华清web\\react\\foodenjoy_egg\\node_modules\\_egg-view@2.1.2@egg-view\\config\\config.default.js",
+    "cache": "E:\\华清web\\react\\foodenjoy_egg\\node_modules\\_egg-view@2.1.2@egg-view\\config\\config.local.js",
+    "defaultExtension": "E:\\华清web\\react\\foodenjoy_egg\\node_modules\\_egg-view@2.1.2@egg-view\\config\\config.default.js",
+    "defaultViewEngine": "E:\\华清web\\react\\foodenjoy_egg\\node_modules\\_egg-view@2.1.2@egg-view\\config\\config.default.js",
+    "mapping": "E:\\华清web\\react\\foodenjoy_egg\\node_modules\\_egg-view@2.1.2@egg-view\\config\\config.default.js"
+  },
+  "env": "E:\\华清web\\react\\foodenjoy_egg\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js",
+  "name": "E:\\华清web\\react\\foodenjoy_egg\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js",
+  "cookies": "E:\\华清web\\react\\foodenjoy_egg\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js",
+  "proxy": "E:\\华清web\\react\\foodenjoy_egg\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js",
+  "maxIpsCount": "E:\\华清web\\react\\foodenjoy_egg\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js",
+  "maxProxyCount": "E:\\华清web\\react\\foodenjoy_egg\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js",
+  "protocolHeaders": "E:\\华清web\\react\\foodenjoy_egg\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js",
+  "ipHeaders": "E:\\华清web\\react\\foodenjoy_egg\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js",
+  "hostHeaders": "E:\\华清web\\react\\foodenjoy_egg\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js",
+  "pkg": {
+    "name": "E:\\华清web\\react\\foodenjoy_egg\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js",
+    "version": "E:\\华清web\\react\\foodenjoy_egg\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js",
+    "main": "E:\\华清web\\react\\foodenjoy_egg\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js",
+    "license": "E:\\华清web\\react\\foodenjoy_egg\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js",
+    "dependencies": {
+      "egg": "E:\\华清web\\react\\foodenjoy_egg\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js",
+      "egg-bin": "E:\\华清web\\react\\foodenjoy_egg\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js",
+      "egg-cors": "E:\\华清web\\react\\foodenjoy_egg\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js",
+      "egg-mysql": "E:\\华清web\\react\\foodenjoy_egg\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js"
+    },
+    "scripts": {
+      "test": "E:\\华清web\\react\\foodenjoy_egg\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js",
+      "dev": "E:\\华清web\\react\\foodenjoy_egg\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js"
+    }
+  },
+  "baseDir": "E:\\华清web\\react\\foodenjoy_egg\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js",
+  "HOME": "E:\\华清web\\react\\foodenjoy_egg\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js",
+  "rundir": "E:\\华清web\\react\\foodenjoy_egg\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js",
+  "dump": {
+    "ignore": "E:\\华清web\\react\\foodenjoy_egg\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js"
+  },
+  "confusedConfigurations": {
+    "bodyparser": "E:\\华清web\\react\\foodenjoy_egg\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js",
+    "notFound": "E:\\华清web\\react\\foodenjoy_egg\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js",
+    "sitefile": "E:\\华清web\\react\\foodenjoy_egg\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js",
+    "middlewares": "E:\\华清web\\react\\foodenjoy_egg\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js",
+    "httpClient": "E:\\华清web\\react\\foodenjoy_egg\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js"
+  },
+  "notfound": {
+    "pageUrl": "E:\\华清web\\react\\foodenjoy_egg\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js"
+  },
+  "siteFile": {
+    "/favicon.ico": "E:\\华清web\\react\\foodenjoy_egg\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js"
+  },
+  "bodyParser": {
+    "enable": "E:\\华清web\\react\\foodenjoy_egg\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js",
+    "encoding": "E:\\华清web\\react\\foodenjoy_egg\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js",
+    "formLimit": "E:\\华清web\\react\\foodenjoy_egg\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js",
+    "jsonLimit": "E:\\华清web\\react\\foodenjoy_egg\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js",
+    "textLimit": "E:\\华清web\\react\\foodenjoy_egg\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js",
+    "strict": "E:\\华清web\\react\\foodenjoy_egg\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js",
+    "queryString": {
+      "arrayLimit": "E:\\华清web\\react\\foodenjoy_egg\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js",
+      "depth": "E:\\华清web\\react\\foodenjoy_egg\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js",
+      "parameterLimit": "E:\\华清web\\react\\foodenjoy_egg\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js"
+    },
+    "onerror": "E:\\华清web\\react\\foodenjoy_egg\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js"
+  },
+  "logger": {
+    "dir": "E:\\华清web\\react\\foodenjoy_egg\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js",
+    "encoding": "E:\\华清web\\react\\foodenjoy_egg\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js",
+    "env": "E:\\华清web\\react\\foodenjoy_egg\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js",
+    "level": "E:\\华清web\\react\\foodenjoy_egg\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js",
+    "consoleLevel": "E:\\华清web\\react\\foodenjoy_egg\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js",
+    "disableConsoleAfterReady": "E:\\华清web\\react\\foodenjoy_egg\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js",
+    "outputJSON": "E:\\华清web\\react\\foodenjoy_egg\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js",
+    "buffer": "E:\\华清web\\react\\foodenjoy_egg\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js",
+    "appLogName": "E:\\华清web\\react\\foodenjoy_egg\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js",
+    "coreLogName": "E:\\华清web\\react\\foodenjoy_egg\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js",
+    "agentLogName": "E:\\华清web\\react\\foodenjoy_egg\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js",
+    "errorLogName": "E:\\华清web\\react\\foodenjoy_egg\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js",
+    "coreLogger": {
+      "consoleLevel": "E:\\华清web\\react\\foodenjoy_egg\\node_modules\\_egg@2.28.0@egg\\config\\config.local.js"
+    },
+    "allowDebugAtProd": "E:\\华清web\\react\\foodenjoy_egg\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js"
+  },
+  "httpclient": {
+    "enableDNSCache": "E:\\华清web\\react\\foodenjoy_egg\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js",
+    "dnsCacheLookupInterval": "E:\\华清web\\react\\foodenjoy_egg\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js",
+    "dnsCacheMaxLength": "E:\\华清web\\react\\foodenjoy_egg\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js",
+    "request": {
+      "timeout": "E:\\华清web\\react\\foodenjoy_egg\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js"
+    },
+    "httpAgent": {
+      "keepAlive": "E:\\华清web\\react\\foodenjoy_egg\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js",
+      "freeSocketTimeout": "E:\\华清web\\react\\foodenjoy_egg\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js",
+      "maxSockets": "E:\\华清web\\react\\foodenjoy_egg\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js",
+      "maxFreeSockets": "E:\\华清web\\react\\foodenjoy_egg\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js"
+    },
+    "httpsAgent": {
+      "keepAlive": "E:\\华清web\\react\\foodenjoy_egg\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js",
+      "freeSocketTimeout": "E:\\华清web\\react\\foodenjoy_egg\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js",
+      "maxSockets": "E:\\华清web\\react\\foodenjoy_egg\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js",
+      "maxFreeSockets": "E:\\华清web\\react\\foodenjoy_egg\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js"
+    }
+  },
+  "meta": {
+    "enable": "E:\\华清web\\react\\foodenjoy_egg\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js",
+    "logging": "E:\\华清web\\react\\foodenjoy_egg\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js"
+  },
+  "coreMiddleware": "E:\\华清web\\react\\foodenjoy_egg\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js",
+  "workerStartTimeout": "E:\\华清web\\react\\foodenjoy_egg\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js",
+  "serverTimeout": "E:\\华清web\\react\\foodenjoy_egg\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js",
+  "clusterClient": {
+    "maxWaitTime": "E:\\华清web\\react\\foodenjoy_egg\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js",
+    "responseTimeout": "E:\\华清web\\react\\foodenjoy_egg\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js"
+  },
+  "onClientError": "E:\\华清web\\react\\foodenjoy_egg\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js"
+}

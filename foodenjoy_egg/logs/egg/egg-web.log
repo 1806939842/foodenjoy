@@ -1,0 +1,61 @@
+2020-09-23 19:40:57,921 INFO 10528 [egg:logger] init all loggers with options: {"dir":"E:\\华清web\\react\\foodenjoy_egg\\logs\\egg","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-09-23 19:40:57,959 INFO 10528 [egg-multipart] file mode enable
+2020-09-23 19:40:57,959 INFO 10528 [egg-multipart] will save temporary files to "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\egg-multipart-tmp\\egg", cleanup job cron: "0 30 4 * * *"
+2020-09-23 19:40:57,960 INFO 10528 [egg-mysql] connecting root@localhost:3306/kcdatabase
+2020-09-23 19:40:58,542 INFO 10528 [egg-static] starting static serve /public/ -> E:\华清web\react\foodenjoy_egg\app\public
+2020-09-23 19:40:58,546 INFO 10528 [egg-security] use methodnoallow middleware
+2020-09-23 19:40:58,547 INFO 10528 [egg-security] use noopen middleware
+2020-09-23 19:40:58,550 INFO 10528 [egg-security] use nosniff middleware
+2020-09-23 19:40:58,550 INFO 10528 [egg-security] use xssProtection middleware
+2020-09-23 19:40:58,551 INFO 10528 [egg-security] use xframe middleware
+2020-09-23 19:40:58,552 INFO 10528 [egg-security] use dta middleware
+2020-09-23 19:40:58,552 INFO 10528 [egg-security] compose 6 middlewares into one security middleware
+2020-09-23 19:40:59,189 INFO 10528 [egg:core] dump config after load, 330ms
+2020-09-23 19:42:36,877 INFO 9236 [egg:logger] init all loggers with options: {"dir":"E:\\华清web\\react\\foodenjoy_egg\\logs\\egg","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-09-23 19:42:36,909 INFO 9236 [egg-multipart] file mode enable
+2020-09-23 19:42:36,909 INFO 9236 [egg-multipart] will save temporary files to "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\egg-multipart-tmp\\egg", cleanup job cron: "0 30 4 * * *"
+2020-09-23 19:42:36,910 INFO 9236 [egg-mysql] connecting root@localhost:3306/kcdatabase
+2020-09-23 19:42:37,133 INFO 9236 [egg-static] starting static serve /public/ -> E:\华清web\react\foodenjoy_egg\app\public
+2020-09-23 19:42:37,136 INFO 9236 [egg-security] use methodnoallow middleware
+2020-09-23 19:42:37,137 INFO 9236 [egg-security] use noopen middleware
+2020-09-23 19:42:37,138 INFO 9236 [egg-security] use nosniff middleware
+2020-09-23 19:42:37,139 INFO 9236 [egg-security] use xssProtection middleware
+2020-09-23 19:42:37,140 INFO 9236 [egg-security] use xframe middleware
+2020-09-23 19:42:37,140 INFO 9236 [egg-security] use dta middleware
+2020-09-23 19:42:37,140 INFO 9236 [egg-security] compose 6 middlewares into one security middleware
+2020-09-23 19:42:37,161 INFO 9236 [egg:core] dump config after load, 7ms
+2020-09-23 19:42:37,187 INFO 9236 [egg-watcher:application] watcher start success
+2020-09-23 19:42:37,199 INFO 9236 [egg-mysql] instance[0] status OK, rds currentTime: Wed Sep 23 2020 19:42:37 GMT+0800 (GMT+08:00)
+2020-09-23 19:42:37,210 INFO 9236 [egg:core] dump config after ready, 9ms
+2020-09-23 20:20:35,429 INFO 8872 [egg:logger] init all loggers with options: {"dir":"E:\\华清web\\react\\foodenjoy_egg\\logs\\egg","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-09-23 20:20:35,462 INFO 8872 [egg-multipart] file mode enable
+2020-09-23 20:20:35,462 INFO 8872 [egg-multipart] will save temporary files to "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\egg-multipart-tmp\\egg", cleanup job cron: "0 30 4 * * *"
+2020-09-23 20:20:35,462 INFO 8872 [egg-mysql] connecting root@localhost:3306/kcdatabase
+2020-09-23 20:20:37,516 INFO 8872 [egg-static] starting static serve /public/ -> E:\华清web\react\foodenjoy_egg\app\public
+2020-09-23 20:20:37,526 INFO 8872 [egg-security] use methodnoallow middleware
+2020-09-23 20:20:37,540 INFO 8872 [egg-security] use noopen middleware
+2020-09-23 20:20:37,542 INFO 8872 [egg-security] use nosniff middleware
+2020-09-23 20:20:37,543 INFO 8872 [egg-security] use xssProtection middleware
+2020-09-23 20:20:37,553 INFO 8872 [egg-security] use xframe middleware
+2020-09-23 20:20:37,554 INFO 8872 [egg-security] use dta middleware
+2020-09-23 20:20:37,554 INFO 8872 [egg-security] compose 6 middlewares into one security middleware
+2020-09-23 20:20:37,636 INFO 8872 [egg:core] dump config after load, 7ms
+2020-09-23 20:20:37,662 INFO 8872 [egg-watcher:application] watcher start success
+2020-09-23 20:20:37,673 INFO 8872 [egg-mysql] instance[0] status OK, rds currentTime: Wed Sep 23 2020 20:20:37 GMT+0800 (GMT+08:00)
+2020-09-23 20:20:37,683 INFO 8872 [egg:core] dump config after ready, 8ms
+2020-09-24 10:55:59,614 INFO 11044 [egg:logger] init all loggers with options: {"dir":"E:\\华清web\\react\\foodenjoy_egg\\logs\\egg","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-09-24 10:55:59,648 INFO 11044 [egg-multipart] file mode enable
+2020-09-24 10:55:59,648 INFO 11044 [egg-multipart] will save temporary files to "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\egg-multipart-tmp\\egg", cleanup job cron: "0 30 4 * * *"
+2020-09-24 10:55:59,649 INFO 11044 [egg-mysql] connecting root@localhost:3306/kcdatabase
+2020-09-24 10:56:02,629 INFO 11044 [egg-static] starting static serve /public/ -> E:\华清web\react\foodenjoy_egg\app\public
+2020-09-24 10:56:02,673 INFO 11044 [egg-security] use methodnoallow middleware
+2020-09-24 10:56:02,675 INFO 11044 [egg-security] use noopen middleware
+2020-09-24 10:56:02,677 INFO 11044 [egg-security] use nosniff middleware
+2020-09-24 10:56:02,678 INFO 11044 [egg-security] use xssProtection middleware
+2020-09-24 10:56:02,679 INFO 11044 [egg-security] use xframe middleware
+2020-09-24 10:56:02,680 INFO 11044 [egg-security] use dta middleware
+2020-09-24 10:56:02,680 INFO 11044 [egg-security] compose 6 middlewares into one security middleware
+2020-09-24 10:56:02,752 INFO 11044 [egg:core] dump config after load, 12ms
+2020-09-24 10:56:02,777 INFO 11044 [egg-watcher:application] watcher start success
+2020-09-24 10:56:02,787 INFO 11044 [egg-mysql] instance[0] status OK, rds currentTime: Thu Sep 24 2020 10:56:02 GMT+0800 (GMT+08:00)
+2020-09-24 10:56:02,799 INFO 11044 [egg:core] dump config after ready, 9ms
